@@ -3,6 +3,7 @@
 	"description": "combine the resume and job description to create ai generated cover letter",
 	"version": "1.0.0",
 	"license": "MIT",
+	"private": false,
 	"bin": {
 		"cv-letter": "index.js",
 		"cvl": "index.js"
