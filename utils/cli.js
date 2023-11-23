@@ -30,6 +30,12 @@ const flags = {
 		alias: `w`,
 		desc: `Word limit for the CV`
 	},
+	apiKey: {
+		type: `string`,
+		default: ``,
+		alias: `a`,
+		desc: `API key for the CV`
+	},
 };
 
 const commands = {
