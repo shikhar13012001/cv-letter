@@ -24,12 +24,6 @@ const flags = {
 		alias: `v`,
 		desc: `Print CLI version`
 	},
-	wordLimit: {
-		type: `number`,
-		default: 150,
-		alias: `w`,
-		desc: `Word limit for the CV`
-	},
 	apiKey: {
 		type: `string`,
 		default: ``,
